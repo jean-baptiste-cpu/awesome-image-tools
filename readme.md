@@ -45,6 +45,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [ImageMagick](https://imagemagick.org) `OSS` — The command-line workhorse. `convert in.heic out.jpg` and a thousand other things. If you script anything with images, you end up here.
 - [imgkilo — HEIC to JPG](https://imgkilo.com/convert-heic-to-jpg-online) 🔒 — Turn iPhone HEIC photos into universal JPG without uploading them. Also covers WebP, AVIF, PNG and SVG conversions in the same place.
 - [JXL Convert](https://jpegxlconvert.com) 🔒 `OSS` — Convert images to and from JPEG XL (.jxl), and HEIC to JPG/PNG, entirely in the browser with no upload; also opens and previews .jxl files.
+- [Nutilz Image Converter](https://nutilz.com/image-converter) 🔒 — Converts JPG, PNG, WebP and BMP in the browser with a JPEG/WebP quality slider, before/after size comparison, and batch conversion to a ZIP. No upload.
 
 ## Resize & crop
 
